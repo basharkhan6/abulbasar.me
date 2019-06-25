@@ -26,7 +26,7 @@ $(document).ready(function() {
 
             $("#loader").show();
             $.ajax({
-                url: "assets/contact/contact.php",
+                url: "https://sstradelink.com//Bashar/sentMail-abulBasar.me.php",
                 type: "POST",
                 data:  new FormData(this),
                 contentType: false,
